@@ -1,0 +1,241 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .dati {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #255EE9;
+  }
+  
+  div {
+    display: block;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .logo {
+    border: 1px;
+    width: calc((100% / 6) * 1);
+  }
+  
+  .link {
+    border: 1px;
+    width: calc((100% / 6) * 4);
+    text-align: center;
+    padding-top: 15px;
+  }
+  
+  .login {
+    border: 1px;
+    width: calc((100% / 6) * 1);
+  }
+  
+  .Accedi {
+    width: 40%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+  }
+
+  .menu {
+    background-image: url(img/jumbo.png);
+    background-size: cover;
+    height: 400px;
+    padding: 30px 180px;
+    background-repeat: no-repeat;
+  }
+  
+  .pink1 {
+    height: 340px;
+    text-align: center;
+    color: white;
+  }
+
+  .Download {
+    width: 15%;
+    margin: 9px auto;
+    background-color: white;
+    padding: 5px;
+    border-radius: 20px;
+  }
+
+  .Apri {
+    width: 25%;
+    margin: 9px auto;
+    background-color: black;
+    padding: 5px;
+    border-radius: 20px;
+    color: white;
+  }
+
+  h1 {
+    font-size: 200%;
+    padding-top: 50px;
+  }
+  
+  .testo {
+    padding: 0 70px;
+  }
+
+  .blue-pink2 {
+    padding: 30px 0 0 100px;
+    height: 430px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  main img {
+    max-width: 100%;
+  }
+  
+  .blue {
+    background-color: lightskyblue;
+    height: 340px;
+    width: calc((100% / 2) + 100px);
+  }
+
+  .blue1 {
+    background-size: contain;
+    background-image: url(img/item1.svg);
+    height: 370px;
+    width: calc(100% / 2);
+    background-repeat: no-repeat;
+  }
+
+  .blue2 {
+    background-size: contain;
+    background-image: url(img/item2.svg);
+    height: 340px;
+    width: calc(100% / 2);
+    background-repeat: no-repeat;
+  }
+
+  .blue3 {
+    background-size: contain;
+    background-image: url(img/item3.svg);
+    height: 340px;
+    width: calc(100% / 2);
+    background-repeat: no-repeat;
+  }
+
+  .pink2 {
+    height: 370px;
+    width: calc((100% / 2) - 150px);
+  }
+
+  .blue-pink3 {
+    padding: 30px 0 0 100px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(234, 232, 232);
+  }
+  
+  .green1 {
+    background-color: rgb(234, 232, 232);
+    height: 1100px;
+    padding: 30px 100px 0 100px;
+  }
+  
+  .green-text {
+    text-align: center;
+  }
+
+  .green2 {
+    background-image: url(img/item4-big.svg);
+    background-size: contain;
+    height: 640px;
+  }
+
+  .Avventura {
+    margin-left: 300px;
+    padding: 20px;
+    background-image: url(img/stars.svg);
+    background-size: 70%;
+    background-repeat: no-repeat;
+  }
+
+  .Mac {
+    text-align: center;
+    width: 15%;
+    margin-left: 40%;
+    background-color: rgb(46, 46, 137);
+    padding: 5px;
+    border-radius: 20px;
+    color: white;
+  }
+
+  .schede {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: darkslategrey;
+    height: 430px;
+    padding: 10px 100px 0 100px;
+  }
+  
+  .palevioletred {
+    background-color: palevioletred;
+    height: 380px;
+    width: calc(100% / 3);
+    border: 1px dashed black;
+  }
+  
+  .palevioletred h2 {
+    color:rgb(46, 46, 137)
+  }
+
+  .ita {
+    width: 10%;
+  }
+
+  .darkcyan {
+    background-color: darkcyan;
+    height: 380px;
+    width: calc(100% / 6);
+    border: 1px dashed white;
+  }
+  
+  hr {
+    color: white;
+  }
+  
+  .darkcyan1 {
+    background-color: darkslategrey;
+    padding: 10px 100px 0 100px;
+  }
+  
+  .abisso {
+    background-color: darkslategrey;
+    padding: 10px 100px 0 100px;
+  }
+  
+  .final {
+    display: flex;
+    flex-wrap: wrap;
+    height: 70px;
+    width: 100%;
+    padding: 16px 0;
+    position: relative;
+  }
+  
+  .Bottone {
+    height: 20px;
+    margin-left: 800px;
+  }
+
+  .Tasto {
+    width: 100%;
+    background-color: rgb(46, 46, 137);
+    color: white;
+    border-radius: 20px;
+    margin: 9px auto;
+    padding: 5px;
+  }
